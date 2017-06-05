@@ -1,0 +1,22 @@
+{
+  "name": "gei-is",
+  "description": "Study and Research Group Management System",
+  "main": "",
+  "directory": "public/plugins",
+  "authors": [
+    "josezg <josezgalvezz@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ntkodaigo/gei_is",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
